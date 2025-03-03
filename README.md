@@ -2,6 +2,12 @@
 
 A Streamlit web application that allows you to explore Google Trends data for any search term. The app provides interactive visualizations and raw data for the selected search term over different time periods.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/b478abf8-8d99-4ef4-ba01-9d4d1d18642f
+
+
 ## Features
 
 - Search for any term and see its Google Trends data
